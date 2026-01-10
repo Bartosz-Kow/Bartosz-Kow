@@ -7,7 +7,7 @@
 
 ```bash
 > whoami
-  Mobile Developer | React Native + TypeScript Enthusiast
+  Junior software engineer | React Native + TypeScript Enthusiast | Mobile Developer
   Database Tinkerer | Dashboard Hacker
 ```
 
